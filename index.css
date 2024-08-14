@@ -25,6 +25,7 @@ img {
   align-items: center;
   gap: 1.1rem;
   background-color: #fff;
+  border-radius: 0.5rem;
 }
 
 .imgs-hedin-container h1 {
