@@ -14,6 +14,7 @@ section {
   margin: 13rem auto;
   padding: 1.8rem 1.4rem;
   align-items: center;
+  gap: 0 1.8rem;
 }
 
 img {
