@@ -23,6 +23,7 @@ img {
   display: flex;
   align-items: center;
   gap: 1.1rem;
+  background-color: #fff;
 }
 
 .imgs-hedin-container h1 {
