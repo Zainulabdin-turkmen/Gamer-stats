@@ -13,6 +13,7 @@ section {
   border-radius: 10px;
   margin: 13rem auto;
   padding: 1.8rem 1.4rem;
+  align-items: center;
 }
 
 img {
