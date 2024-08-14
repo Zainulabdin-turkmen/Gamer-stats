@@ -15,6 +15,7 @@ section {
   padding: 1.8rem 1.4rem;
   align-items: center;
   gap: 0 1.8rem;
+  box-sizing: border-box;
 }
 
 img {
@@ -31,6 +32,7 @@ img {
   background-color: #fff;
   border-radius: 0.5rem;
   padding: 2.2rem 1.8rem;
+  box-sizing: border-box;
 }
 
 .imgs-hedin-container h1 {
