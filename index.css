@@ -21,4 +21,5 @@ img {
 
 .imgs-hedin-container {
   display: flex;
+  align-items: center;
 }
