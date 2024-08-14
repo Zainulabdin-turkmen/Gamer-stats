@@ -11,3 +11,7 @@ section {
   background-color: #eaeef4;
   box-shadow: 0px 10px 29px 0px #b6c0d1;
 }
+
+img {
+  width: 3rem;
+}
