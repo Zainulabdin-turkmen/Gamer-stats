@@ -28,3 +28,7 @@ img {
 .imgs-hedin-container h1 {
   color: #0e53ca;
 }
+
+section {
+  display: grid;
+}
