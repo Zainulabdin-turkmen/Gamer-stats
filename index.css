@@ -24,3 +24,7 @@ img {
   align-items: center;
   gap: 1.1rem;
 }
+
+.imgs-hedin-container h1 {
+  color: #0e53ca;
+}
