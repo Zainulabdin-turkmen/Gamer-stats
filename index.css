@@ -18,3 +18,7 @@ img {
   object-fit: cover;
   border-radius: 50%;
 }
+
+.imgs-hedin-container {
+  display: flex;
+}
